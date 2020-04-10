@@ -16,7 +16,7 @@ import { withMui } from '@sackrin/react-micro-ui-mui';
 
 const Example = (props) => (<div>Example Component</div>);
 
-export const hasMui = withMui(Example, { ...CustomMUITheme } , 'CTM');
+export const hasMui = withMui(Example, { ...CustomMUITheme } , 'addSomeUniqueCssClassPrefix');
 
 export default hasMui;
 ```
