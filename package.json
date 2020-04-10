@@ -1,6 +1,6 @@
 {
   "name": "@sackrin/react-micro-ui-mui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helpers and components to add material UI to react micro ui components",
   "main": "lib/index.js",
   "repository": {
